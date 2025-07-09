@@ -6,7 +6,6 @@
     <title>Número Amigo</title>
 </head>
 <body>
-    <h1>Número Amigo</h1>
        <form method="post" action="">
         <label for="numero1">Número 1:</label><br>
         <input type="text" id="numero1" name="numero1"><br><br>
@@ -17,7 +16,7 @@
 </body>
 </html>
 
-<!-- PESQUISEI PARA FAZER - não sabia  -->
+
 
 <?php
 function somaDivisores($numero) {
