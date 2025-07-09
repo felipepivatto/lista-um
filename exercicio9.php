@@ -19,7 +19,6 @@
 
 </html>
 
-<!-- PESQUISEI PARA FAZER - não sabia  -->
 
 <?php
 
